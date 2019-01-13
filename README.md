@@ -3,7 +3,7 @@ Seun Onile-ere (28/05/17) Task 2: Fireside_Fee_Calculator
 This program is being created so that an entry fee can be calculated for each player attempting to enter the Fireside Annual Card Gaming Leauge,
 subsequently displaying the fee required to enter in the appropriate currency.
 
-#States that as long as the variable 'request' equates to the value 'True', the code wil continue to run
+    #States that as long as the variable 'request' equates to the value 'True', the code wil continue to run
     request = True
     while request == True:
     #Displays the welcome message that associates the player with the context of the program    
