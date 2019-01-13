@@ -101,4 +101,4 @@ subsequently displaying the fee required to enter in the appropriate currency.
     #If the user input equates to neither 'Yes' or 'No', than anything besides the options given will cause the program to request another input, concluding the recapitulatory segment of the program       
          else:
             Response = input('Please enter either Yes or No to illustrate your choice  \n')
-#This closes the previously defined function 'Calculator', fully encapsulating the program within the function of 'Calculator'
+
